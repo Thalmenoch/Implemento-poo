@@ -13,7 +13,7 @@ public class Main {
 		
 		System.out.print("Insira a sigla: ");
 		sc.nextLine();
-		sigla = sc.nextLine();
+		sigla = sc.nextLine();//teste de git 
 		
 		System.out.print("Insira a descrição: ");
 		desc = sc.nextLine();
